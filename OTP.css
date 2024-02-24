@@ -1,0 +1,91 @@
+
+body{
+    background:linear-gradient( #b5cfe4 50%, #eeeedd 80%);
+}
+.headOTP{
+    width: 400px;
+    height: 460px;
+    border: 1px solid rgb(235, 248, 199);
+    border-radius: 15px;
+    background-color:rgb(181, 197, 228); 
+    margin: 70px 0 30px 480px;
+}
+.circle{
+    border: 1px solid white;
+    border-radius: 50%;
+    width: 160px;
+    height: 160px;
+    margin-top: 50px;
+    margin-left: 115px;
+    background-color:rgb(208, 238, 231);
+}
+.input1{
+    width: 320px;
+    height: 40px;
+    margin-left: 35px;
+    margin-top: 40px;
+    text-align: center;
+    font-size: 18px;
+    border: 0;
+    outline: none;
+    font-family: cursive;
+}
+.button1{
+    width: 325px;
+    height: 40px;
+    margin-left: 35px;
+    margin-top: 25px;
+    font-size: 18px;
+    border: 0;
+    outline: none;
+    background-color: cornflowerblue;
+    color: beige;
+    font-family:cursive;
+}
+.button1:hover{
+    background-color: rgb(54, 120, 243);
+    box-shadow: 5px 5px 8px black;
+}
+.button1:active{
+    box-shadow: 5px 5px 8px white;
+}
+.para1{
+    font-size: 16px;
+    text-align: center;
+    color: #114066;
+    font-family:cursive;
+}
+.input2{
+    width: 320px;
+    height: 40px;
+    margin-left: 35px;
+    margin-top: 40px;
+    text-align: center;
+    font-size: 18px;
+    border: 0;
+    outline: none;
+    font-family: cursive;
+    display: none;
+}
+.button2{
+    width: 325px;
+    height: 40px;
+    margin-left: 35px;
+    margin-top: 25px;
+    font-size: 18px;
+    border: 0;
+    outline: none;
+    background-color: grey;
+    color: white;
+    font-family:cursive;
+    display: none;
+}
+
+
+
+
+
+
+
+
+
